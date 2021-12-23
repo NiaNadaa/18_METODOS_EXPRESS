@@ -5,9 +5,9 @@ app.listen(process.env.PORT || 3000);
 console.log('Servidor corriendo en puerto: 3000');
 
 let personas = [
-  { nombre: "Ana", apellido: "Fernandez", edad: 18 },
-  { nombre: "Ivan", apellido: "Parra", edad: 22 },
-  { nombre: "David", apellido: "Lazaro", edad: 21 }
+  { nombre: "Ana", apellido: "Fernandez", edad: 30 },
+  { nombre: "Jose", apellido: "Gil", edad: 22 },
+  { nombre: "David", apellido: "Monforte", edad: 34 }
 ];
 
 
